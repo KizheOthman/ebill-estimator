@@ -147,17 +147,6 @@ lib/
 
 ---
 
-## Assignment Details
-
-| Item | Detail |
-|---|---|
-| Course | Mobile Technology |
-| Assignment | Individual Assignment (20%) |
-| CLO | CLO2 / LO2 |
-| Platform | Android (Flutter) |
-| Database | SQLite (local/offline) |
-
----
 
 ## License
 
