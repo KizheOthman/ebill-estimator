@@ -1,13 +1,6 @@
 # ⚡ E-Bill Estimator
 
 > A Flutter Android application for estimating monthly electricity bills using the TNB tiered block rate structure.
-
----
-
-## 📱 Screenshots
-
-> _Add your screenshots here after building the app._
-
 ---
 
 ## 📋 Table of Contents
@@ -82,7 +75,7 @@ Final Cost = Total Charges − (Total Charges × Rebate%)
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ebill-estimator.git
+   git clone https://github.com/KizheOthman/ebill-estimator.git
    cd ebill-estimator
    ```
 
@@ -98,14 +91,7 @@ Final Cost = Total Charges − (Total Charges × Rebate%)
 
 ### Build Signed APK
 
-1. Generate a keystore:
-   ```bash
-   keytool -genkey -v -keystore ~/ebill-key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias ebill
-   ```
-
-2. Configure signing in `android/app/build.gradle`
-
-3. Build the release APK:
+. Build the release APK:
    ```bash
    flutter build apk --release
    ```
@@ -175,7 +161,7 @@ lib/
 
 ## License
 
-© 2025 Your Name. All Rights Reserved.
+© 2025 Kizhe Othman. All Rights Reserved.
 
 This project was developed for academic purposes as part of a university assignment.
 
@@ -183,5 +169,5 @@ This project was developed for academic purposes as part of a university assignm
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/yourusername/ebill-estimator](https://github.com/yourusername/ebill-estimator)
-- **Demo Video:** [YouTube – E-Bill Estimator Demo](https://youtube.com/your-video-link)
+- **GitHub Repository:https://github.com/KizheOthman/ebill-estimator
+
