@@ -150,7 +150,7 @@ lib/
 
 ## License
 
-© 2025 Kizhe Othman. All Rights Reserved.
+© 2026 Kizhe Othman. All Rights Reserved.
 
 This project was developed for academic purposes as part of a university assignment.
 
